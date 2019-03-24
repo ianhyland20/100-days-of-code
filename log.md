@@ -1,22 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: March 24, 2018
+<!--##### (delete me or comment me out)-->
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress:** Completed Applied Visual Design on FCC, began writing HTML for personal redesign project of the pool
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Will need a lot more practice with graphics and animations using CSS, but I grasp most all the basics
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:**
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2:
+<!--##### (delete me or comment me out)-->
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work:** 
 
 
 ### Day 1: June 27, Monday
